@@ -46,7 +46,7 @@ export const summaryData = [
     paragraphLines: `Saya mempunyai Server Minecraft Survival, Creative, dan PVP.
      Siapapun boleh masuk java ataupun badrock, 
      Minecraft Server :
-      Addres :sequen.fun, 
+      Addres :play.sequen.fun, 
       Port   :2507,
        Enjoy dan Jangan Rusuk aja. Jika ada Error Bisa Hubungi Saya `,
     subtitleWord: "Minecraft",
