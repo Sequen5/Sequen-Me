@@ -1,7 +1,7 @@
 # Responsive Portfolio Website
 
 This is a portfolio website created using **JavaScript**, **HTML**, and **CSS**.
-Live Demo: [https://prasadlakhara.github.io/portfolio-template/](https://www.sequen.fun)
+Live Demo: [https://www.sequen.fun](https://www.sequen.fun)
 ## Steps to Clone and Customize
 
 1. **Clone the Repository**
